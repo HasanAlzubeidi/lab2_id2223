@@ -1,4 +1,11 @@
-# lab2_id2223
+
+
+UI LLM- Conversational AI with LoRA
+
+https://67ea5c508f06eb5bc0.gradio.live
+
+
+# Task2
 
 
 Model-centric approach :
