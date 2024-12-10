@@ -8,3 +8,7 @@ In order to improve the performance we can fine tune different hyperparameters. 
 We can also use scheduled learning rates such as cyclic learning to improve the performance. 
 
 Another step is to find the suitable weight decay. Weight decay is a regularization technique  that can be used to avoid overfitting. Therefore a grid search to find the optimal weight decay will lead to better performance since it reduces the complexity of the model.   
+
+
+
+https://huggingface.co/datasets/wikimedia/wikipedia
