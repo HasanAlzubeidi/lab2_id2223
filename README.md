@@ -11,4 +11,5 @@ Another step is to find the suitable weight decay. Weight decay is a regularizat
 
 
 
-https://huggingface.co/datasets/wikimedia/wikipedia
+Data-centric approach :
+Another dataset that be used it the LIMA : https://paperswithcode.com/dataset/lima
